@@ -1,0 +1,27 @@
+.device{
+  width: 424px;
+  height: 730px;
+  background: #ebebeb;
+  border-radius: 35px;
+  margin: auto;
+  border: 2px solid #dadada;
+}
+.device-header{
+  width: 100px;
+  height: 5px;
+  background: #333;
+  border-radius: 5px;
+  margin: auto;
+  margin: 30px auto; 
+}
+.device-preview{
+  width: 400px;
+  height:620px;
+  background: #fff;
+  margin: auto;
+ 
+}
+iframe{
+	height:100%;
+	overflow-y: scroll;
+}
