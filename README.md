@@ -1,1 +1,1 @@
-# responsive_device
+# Responsive device test
